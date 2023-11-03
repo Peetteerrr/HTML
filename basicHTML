@@ -6,9 +6,9 @@
     
 <h1>New Awesome Product</h1>
 
-<img src="https://blob.sololearn.com/courses/np.png">
+<img src="<<<img sourcelink>>>">
 
-<p>Introducing our <b>latest product</b>, designed to maked your life easier and more efficient </p>
+<p> This is to create a paragraph <br> to create another line </p>
 
 <!--to create unorderlist, change <ul> to <ol> for orderlist-->
     <ul>
